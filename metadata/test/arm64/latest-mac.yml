@@ -1,13 +1,13 @@
 {
-  "version": "0.0.16",
+  "version": "0.0.17",
   "files": [
     {
-      "url": "https://github.com/gmccreight/gtm-school-trainer-releases/releases/download/v0.0.16-arm64/gtm-trainer-0.0.16-arm64.zip",
-      "sha512": "eFjdKUCA+6o/L9ZeSMu0cxth8PB0Qu1meDf/W2DZTV6ncOs4Jj+5a/0LVZsTQZDJrsGE4Po0wFXLm08IYpIiWw==",
-      "size": 134046331
+      "url": "https://github.com/gmccreight/gtm-school-trainer-releases/releases/download/v0.0.17-arm64/gtm-trainer-0.0.17-arm64.zip",
+      "sha512": "MTfqbKJdr7HgPr72AzfZ3qF2O+RDh7h4VF/Zb1A7qX/FMnqK2YWy8d7yN7zWcNXM0qZn8SLhOTqso5OZYQYQpg==",
+      "size": 134046103
     }
   ],
-  "path": "https://github.com/gmccreight/gtm-school-trainer-releases/releases/download/v0.0.16-arm64/gtm-trainer-0.0.16-arm64.zip",
-  "sha512": "eFjdKUCA+6o/L9ZeSMu0cxth8PB0Qu1meDf/W2DZTV6ncOs4Jj+5a/0LVZsTQZDJrsGE4Po0wFXLm08IYpIiWw==",
-  "releaseDate": "2026-11-05T20:51:31.060Z"
+  "path": "https://github.com/gmccreight/gtm-school-trainer-releases/releases/download/v0.0.17-arm64/gtm-trainer-0.0.17-arm64.zip",
+  "sha512": "MTfqbKJdr7HgPr72AzfZ3qF2O+RDh7h4VF/Zb1A7qX/FMnqK2YWy8d7yN7zWcNXM0qZn8SLhOTqso5OZYQYQpg==",
+  "releaseDate": "2026-11-05T20:52:57.987Z"
 }
